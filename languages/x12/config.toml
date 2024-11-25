@@ -1,0 +1,4 @@
+name = "X12"
+grammar = "x12"
+path_suffixes = ["x12"]
+line_comments = []

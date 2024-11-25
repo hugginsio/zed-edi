@@ -1,0 +1,11 @@
+id = "x12"
+name = "X12"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kyle Huggins <kyle@huggins.io>"]
+description = "An X12 EDI plugin for Zed."
+repository = "https://github.com/hugginsio/zed-x12"
+
+[grammars.x12]
+repository = "https://github.com/hugginsio/tree-sitter-x12"
+commit = "cfb81db868feff29befb6a58d50a06e9ce39e484"
