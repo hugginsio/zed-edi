@@ -1,6 +1,8 @@
-# zed-x12
+# zed-edi
 
-An X12 EDI plugin for Zed leveraging [hugginsio/tree-sitter-x12].
+Basic EDI language support for Zed.
+
+- EDI X12 support provided by [hugginsio/tree-sitter-x12].
 
 > [!NOTE]
 > This grammar does not validate the content or structure of the EDI document. It's really just meant to enable basic highlighting support in your favorite text editors.

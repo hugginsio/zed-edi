@@ -1,10 +1,10 @@
-id = "x12"
-name = "X12"
-version = "0.0.1"
+id = "edi"
+name = "EDI"
+version = "0.0.2"
 schema_version = 1
 authors = ["Kyle Huggins <kyle@huggins.io>"]
-description = "An X12 EDI plugin for Zed."
-repository = "https://github.com/hugginsio/zed-x12"
+description = "Basic EDI X12 language support."
+repository = "https://github.com/hugginsio/zed-edi"
 
 [grammars.x12]
 repository = "https://github.com/hugginsio/tree-sitter-x12"
